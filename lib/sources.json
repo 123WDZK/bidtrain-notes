@@ -1,0 +1,501 @@
+{
+  "materials": [
+    {
+      "id": "local-1",
+      "title": "三色笔记_01_核心法律（1-4）",
+      "url": "/materials/material-1.pdf",
+      "kind": "学习笔记",
+      "note": "本地学习资料；用于理解与练习，不作为现行法规原文。",
+      "status": "已提取",
+      "pages": 8
+    },
+    {
+      "id": "local-2",
+      "title": "三色笔记_02_项目规定与范围（5-6, 17-18）",
+      "url": "/materials/material-2.pdf",
+      "kind": "学习笔记",
+      "note": "本地学习资料；用于理解与练习，不作为现行法规原文。",
+      "status": "已提取",
+      "pages": 4
+    },
+    {
+      "id": "local-3",
+      "title": "三色笔记_03_招标投标办法（7-10）",
+      "url": "/materials/material-3.pdf",
+      "kind": "学习笔记",
+      "note": "本地学习资料；用于理解与练习，不作为现行法规原文。",
+      "status": "已提取",
+      "pages": 5
+    },
+    {
+      "id": "local-4",
+      "title": "2026.8.12宿州市工程监理范本",
+      "url": "/materials/material-4.doc",
+      "kind": "地方范本",
+      "note": "宿州范本；文件名日期不等于官方生效日期，办理前复核版本。",
+      "status": "待转换旧版DOC",
+      "pages": null
+    },
+    {
+      "id": "local-5",
+      "title": "2026.8.12宿州市房屋建筑和市政工程施工招标文件范本",
+      "url": "/materials/material-5.doc",
+      "kind": "地方范本",
+      "note": "宿州范本；文件名日期不等于官方生效日期，办理前复核版本。",
+      "status": "待转换旧版DOC",
+      "pages": null
+    },
+    {
+      "id": "local-6",
+      "title": "2026.8.12宿州市房建及市政工程“评定分离”招标文件范本（一种评标办法）",
+      "url": "/materials/material-6.docx",
+      "kind": "地方范本",
+      "note": "文件名标注 2026.8.12，正文封面为电子招标投标 2025 年版、2025 年 2 月；适用性待复核。",
+      "status": "已提取",
+      "pages": null
+    },
+    {
+      "id": "local-7",
+      "title": "2026.8.12（通用）宿州市建设工程项目招标文件范本",
+      "url": "/materials/material-7.doc",
+      "kind": "地方范本",
+      "note": "宿州范本；文件名日期不等于官方生效日期，办理前复核版本。",
+      "status": "待转换旧版DOC",
+      "pages": null
+    },
+    {
+      "id": "local-8",
+      "title": "安徽省宝丰工贸有限责任公司物流中心及附属工程监理、跟踪审计服务--招标文件",
+      "url": "/materials/material-8.pdf",
+      "kind": "历史案例",
+      "note": "宝丰物流中心监理、跟踪审计案例；文件列示 2024 年递交时间，平台为徽智采。",
+      "status": "已提取",
+      "pages": 92
+    },
+    {
+      "id": "local-9",
+      "title": "工业项目开工流程图24.1.24",
+      "url": "/materials/material-9.pdf",
+      "kind": "流程资料",
+      "note": "图片型 PDF，文字层为空；尚未完成图中内容识别。",
+      "status": "图片型PDF，待识别",
+      "pages": 1
+    },
+    {
+      "id": "local-10",
+      "title": "招标文件正文 (1)",
+      "url": "/materials/material-10.pdf",
+      "kind": "历史案例",
+      "note": "实际为合肥蜀山区 SS202407 地块全过程咨询项目，2025 年 2 月；不是宿州通用范本。",
+      "status": "已提取",
+      "pages": 124
+    }
+  ],
+  "policies": [
+    {
+      "title": "《公共资源交易中心招标投标现场管理暂行办法》 2026年第43号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20260716/22a664e0-376b-4dbf-b44e-b2c11f83c418.html",
+      "file": "22a664e0-376b-4dbf-b44e-b2c11f83c418.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 6518,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "司法部发布《行政执法人员行为准则》",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20260106/354e24c3-f04f-4271-ac02-ac055d659e72.html",
+      "file": "354e24c3-f04f-4271-ac02-ac055d659e72.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 1280,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "行政执法监督条例（中华人民共和国国务院令 第825号）",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20260106/f43e86b1-a5b5-4de2-b257-12974957ec26.html",
+      "file": "f43e86b1-a5b5-4de2-b257-12974957ec26.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 5333,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "国家发展改革委等部门关于印发《招标人主体责任履行指引》的通知（发改法规〔2025〕1358号）",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20251112/d7f419ef-564b-4e30-8335-3bf79f175dfd.html",
+      "file": "d7f419ef-564b-4e30-8335-3bf79f175dfd.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 6909,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《工程建设项目招标代理机构管理暂行办法》2025年第34号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20251103/02b10952-da2c-418d-b898-907be7612900.html",
+      "file": "02b10952-da2c-418d-b898-907be7612900.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 4582,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《国家发展改革委办公厅关于加快推广远程异地评标的通知》（发改办法规〔2025〕807号）",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20250912/9d3d7682-c567-491e-a0a1-d91a82986711.html",
+      "file": "9d3d7682-c567-491e-a0a1-d91a82986711.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 2421,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "公平竞争审查条例实施办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20250515/9ac6abfd-534e-4bad-b873-a3898929c4ff.html",
+      "file": "9ac6abfd-534e-4bad-b873-a3898929c4ff.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 8629,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "国家发展改革委《评标专家和评标专家库管理办法》26号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20241010/b426cd86-cea6-4b17-ad24-bbfd171bf6ec.html",
+      "file": "b426cd86-cea6-4b17-ad24-bbfd171bf6ec.txt",
+      "status": "附件或外链页，正文待提取",
+      "characters": 203,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《招标投标领域公平竞争审查规则》2024年第16号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20240402/c5b3e2c2-7268-49e7-8c0f-b43114f46865.html",
+      "file": "c5b3e2c2-7268-49e7-8c0f-b43114f46865.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 3949,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《政府采购公告和公示信息格式规范（2020年版）》",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201117/37955106-d7b1-419b-9e3b-bd06491d474a.html",
+      "file": "37955106-d7b1-419b-9e3b-bd06491d474a.txt",
+      "status": "附件或外链页，正文待提取",
+      "characters": 229,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "优化营商环境条例",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/c4e59a39-f1af-4f9b-bd42-729a159b2bdf.html",
+      "file": "c4e59a39-f1af-4f9b-bd42-729a159b2bdf.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 10791,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国政府采购法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/3cbb4cc3-f246-449b-8431-ddc21772f6e4.html",
+      "file": "3cbb4cc3-f246-449b-8431-ddc21772f6e4.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 11608,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国招标投标法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/27d96048-517f-49c6-9ad4-d70d2e36e32b.html",
+      "file": "27d96048-517f-49c6-9ad4-d70d2e36e32b.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 8365,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "此转载页正文保留早期条文，须与修正版本逐条核对，不能按网页发布时间判断版本。"
+    },
+    {
+      "title": "公共资源交易平台管理暂行办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/c554ff00-f24c-4819-9c61-e756a02b6d4d.html",
+      "file": "c554ff00-f24c-4819-9c61-e756a02b6d4d.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 5042,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《招标公告和公示信息发布管理办法》发改委第10号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/6e0a07ef-2d1a-4c15-a00b-0b481cf64da4.html",
+      "file": "6e0a07ef-2d1a-4c15-a00b-0b481cf64da4.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 3694,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国企业国有资产法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20210624/f1828938-568d-4ec4-ac45-62f653457051.html",
+      "file": "f1828938-568d-4ec4-ac45-62f653457051.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 9581,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《工程建设项目招标代理机构资格认定办法》建设部令第　154　号",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/95e4b940-0eb0-4d1a-84c9-6b0735867be4.html",
+      "file": "95e4b940-0eb0-4d1a-84c9-6b0735867be4.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 5912,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "国务院关于修改《中华人民共和国专利法实施细则》的决定",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20210624/7d8d89af-25ae-420f-8072-96098b9c0ce2.html",
+      "file": "7d8d89af-25ae-420f-8072-96098b9c0ce2.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 33127,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国建筑法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/9b67fca6-77a8-42ba-aaf6-fdf1efeb179f.html",
+      "file": "9b67fca6-77a8-42ba-aaf6-fdf1efeb179f.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 9158,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "基础设施和公用事业特许经营管理办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20210624/c346edc6-04e5-4786-95cf-e4ee4304a709.html",
+      "file": "c346edc6-04e5-4786-95cf-e4ee4304a709.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 6966,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "政府采购货物和服务招标投标管理办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/90869abd-d8db-4e35-84b7-3296c28263a5.html",
+      "file": "90869abd-d8db-4e35-84b7-3296c28263a5.txt",
+      "status": "附件或外链页，正文待提取",
+      "characters": 207,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "招标拍卖挂牌出让国有建设用地使用权规定",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/0cf54c1a-b973-4ed6-ba01-a20bb59b5136.html",
+      "file": "0cf54c1a-b973-4ed6-ba01-a20bb59b5136.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 4583,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "工程建设项目申报材料增加招标内容和核准招标事项暂行规定",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/ec09a28d-5ab5-47df-a55f-7de93c06e0b2.html",
+      "file": "ec09a28d-5ab5-47df-a55f-7de93c06e0b2.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 2145,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "房屋建筑工程和市政基础设施工程质量监督管理规定",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/a8dfd8e7-8ebf-47a6-827e-badbf1e6451b.html",
+      "file": "a8dfd8e7-8ebf-47a6-827e-badbf1e6451b.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 2218,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "政府采购非招标采购方式管理办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/263950d6-4957-4224-ac05-de06a08109b6.html",
+      "file": "263950d6-4957-4224-ac05-de06a08109b6.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 10627,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "建设工程勘察设计管理条例",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/2e5affcd-3a45-445d-b17a-96e1ced770fe.html",
+      "file": "2e5affcd-3a45-445d-b17a-96e1ced770fe.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 5372,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "国务院关于废止和修改部分行政法规的决定",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/a2f71c08-5b65-444a-b1a1-46f4ccab70ff.html",
+      "file": "a2f71c08-5b65-444a-b1a1-46f4ccab70ff.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 9908,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "建设工程安全生产管理条例",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/6d183ae8-4756-481b-9bf4-33cdafcb88ef.html",
+      "file": "6d183ae8-4756-481b-9bf4-33cdafcb88ef.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 10620,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国环境保护法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/38a14c65-3cd7-4aad-9424-59c9bb35108e.html",
+      "file": "38a14c65-3cd7-4aad-9424-59c9bb35108e.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 8806,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国电子商务法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/deaf240a-c99b-4385-b323-477de237cc26.html",
+      "file": "deaf240a-c99b-4385-b323-477de237cc26.txt",
+      "status": "附件或外链页，正文待提取",
+      "characters": 192,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国价格法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/f2c435d5-a1a5-413b-ba2d-8be9550fc16c.html",
+      "file": "f2c435d5-a1a5-413b-ba2d-8be9550fc16c.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 5036,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "中华人民共和国反不正当竞争法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201127/be327a7d-dfa1-4d61-9316-b3414f3244fd.html",
+      "file": "be327a7d-dfa1-4d61-9316-b3414f3244fd.txt",
+      "status": "附件或外链页，正文待提取",
+      "characters": 198,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《建筑工程设计招标投标管理办法》（建设部第82号令）",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/f5dc1af4-d8e3-4396-b4ec-f5a700f08f24.html",
+      "file": "f5dc1af4-d8e3-4396-b4ec-f5a700f08f24.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 3810,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《工程建设项目招标投标活动投诉处理办法》（7部委11号令）",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/b2812001-5d5c-4a3c-8b3e-9a4bed938e43.html",
+      "file": "b2812001-5d5c-4a3c-8b3e-9a4bed938e43.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 3611,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《政府采购质疑和投诉办法》财政部令第94号",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/cb06301f-ca26-4f7f-adf9-0786c2cb2b69.html",
+      "file": "cb06301f-ca26-4f7f-adf9-0786c2cb2b69.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 6236,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《必须招标的工程项目规定》发改16号令",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/50b8bd0e-9efd-4543-84ff-1b65dd303a42.html",
+      "file": "50b8bd0e-9efd-4543-84ff-1b65dd303a42.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 959,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《中华人民共和国招标投标法实施条例》",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/d9152470-b438-4371-807d-217506bbaa9f.html",
+      "file": "d9152470-b438-4371-807d-217506bbaa9f.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 12658,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《中华人民共和国政府采购法实施条例》",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/833dd11f-af83-4998-890d-78dc98b21ad0.html",
+      "file": "833dd11f-af83-4998-890d-78dc98b21ad0.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 11604,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "《政府投资条例》",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201108/ba831581-b82c-4525-8bec-823102f9f5c5.html",
+      "file": "ba831581-b82c-4525-8bec-823102f9f5c5.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 4502,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    },
+    {
+      "title": "电子招标投标办法",
+      "url": "https://ggzyjy.ahsz.gov.cn/fwzn/003014/003014001/20201008/3db127e2-2c34-486d-80db-1afc165bef08.html",
+      "file": "3db127e2-2c34-486d-80db-1afc165bef08.txt",
+      "status": "已抓取，效力待复核",
+      "characters": 8356,
+      "retrieved": "2026-09-08",
+      "kind": "国家政策",
+      "note": "宿州平台转载；已抓取不代表现行有效。版本、效力及附件内容待逐项审核。"
+    }
+  ],
+  "retrieved": "2026-09-08",
+  "counts": {
+    "policy": 40,
+    "body": 35
+  }
+}

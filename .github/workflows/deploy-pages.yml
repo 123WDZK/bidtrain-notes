@@ -1,19 +1,15 @@
 name: Deploy mirror to GitHub Pages
-
 on:
   push:
     branches: [main]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,11 +21,24 @@ jobs:
       - run: corepack enable
       - run: pnpm install --frozen-lockfile
       - run: pnpm run build
+      - name: Fix project mirror resource paths
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          root = Path('dist/client')
+          for path in root.rglob('*'):
+              if path.suffix not in ('.html', '.rsc', '.js', '.css', '.json'):
+                  continue
+              content = path.read_text(encoding='utf-8')
+              content = re.sub(r'(?<![\w/.-])/(?:_next/|materials/|regulations/|favicon\.svg|implementation-plan\.md)', lambda m: '/bidtrain-notes' + m.group(0), content)
+              path.write_text(content, encoding='utf-8')
+          (root / '.nojekyll').touch()
+          PY
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/client
-
   deploy:
     environment:
       name: github-pages
